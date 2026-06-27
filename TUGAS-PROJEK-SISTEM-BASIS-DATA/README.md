@@ -1,22 +1,25 @@
-# Sistem Manajemen Arsip Surat dan Dokumen Digital
+# 📁 Final Project Sistem Manajemen Arsip Surat dan Dokumen Digital
 
-Final Project Mata Kuliah Sistem Basis Data
+## 👨‍🎓 Mata Kuliah
+Sistem Basis Data
 
-## Tools
-- Visual Studio 2022
-- MySQL / MariaDB
+## 👨‍🏫 Dosen
+Ferdi Cahyadi, S.Kom., M.Cs.
+
+## 💻 Bahasa Pemrograman
+- C++
 - MySQL Connector/C++
+- MariaDB
+- Visual Studio 2022
 
-## Cara Menjalankan
-1. Import database `db_arsip_digital.sql`
-2. Buka `Sistem Arsip Dokumen Digital Final.sln`
-3. Build dan Run project di Visual Studio.
-
-## Fitur
-- Login
-- CRUD User
-- CRUD Kategori
-- CRUD Dokumen
-- Pencarian Dokumen
-- Aktivitas Pengguna
+## 📂 Struktur Repository
+- Source Code
+- Database
 - Laporan
+- Dokumentasi
+
+## 🚀 Cara Menjalankan
+1. Import database `db_arsip_digital.sql`
+2. Buka project menggunakan Visual Studio
+3. Build Project
+4. Jalankan program
